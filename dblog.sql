@@ -11,3 +11,4 @@ CREATE TABLE IF NOT EXISTS dblog ( -- 建立登入日誌資料表
 ); -- 結束 dblog 資料表建立
 
 -- 範例登入記?- 範例登入記?- 範例登入記?- 範例登入記?- 範例登入記?- 範例登入記?- 範例登入記?- 範例登入記?- 範例登入記?- 範例登入記?- 範例登入記?- 範例登入記?- 範例登入記?- 範例登入記?- 範例登入記?SERT INTO dblog (user_id, account, success, remark) VALUES (3, 'userC', 1, '登入成功'); -- 使用者 C 登入成功
+
